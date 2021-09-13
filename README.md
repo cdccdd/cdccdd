@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @cdccdd
 - 👦 My name is Maksim
 - 🙄 I worked as a design engineer for 3 years. but now I decided to start learning software development
-- 📚 I’m currently learning Python, JS, SQL
-- 👀 I’m interested in machine learning
+- 📚 I’m currently learning Python, SQL
+- 👀 I’m interested in ML and CV
 - 📫 How to reach me https://t.me/cdccdd
 
 <!---
